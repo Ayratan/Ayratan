@@ -16,7 +16,7 @@ Dentro da faculdade, adquiri conhecimento acadêmico em algumas linguagens e tec
 
 <div>
   <ul>
-  .<img align="center" alt="Ayratan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
+    <li><img align="center" alt="Ayratan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> </li>
    </ul>
 </div>
 
