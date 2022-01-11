@@ -14,6 +14,10 @@ Dentro da faculdade, adquiri conhecimento acadêmico em algumas linguagens e tec
 - Fortran
 - Cobol
 
+<div>
+  -<img align="center" alt="Ayratan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
+</div>
+
 Atualmente, estou me focando em aprender um pouco mais sobre desenvolvimento web, em especial, a parte de front-end.
 
 <div align="center">
