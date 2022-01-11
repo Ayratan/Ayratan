@@ -18,6 +18,6 @@ Atualmente, estou me focando em aprender um pouco mais sobre desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/Ayratan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayratan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayratan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayratan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
