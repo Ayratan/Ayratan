@@ -1,8 +1,9 @@
 ### Seja Bem Vindo(a) 😃
 
-Sou desenvolvedor front end, tenho como experiência profissional, 6 meses de estágio na área de desenvolvimento(front end), além de outros 2 anos na área de suporte técnico.
-Atualmente estou finalizando meu curso de front end na Labenu e também estou cursando Análise e Desenvolvimento de Sistemas na FATEC-SP.
+Sou desenvolvedor front end, tenho como experiência profissional 6 meses de estágio na área de desenvolvimento (front end), além de outros 2 anos na área de suporte técnico.
+Atualmente, estou finalizando meu curso de front end na Labenu e também estou cursando Análise e Desenvolvimento de Sistemas na FATEC-SP.
 Dentro da faculdade, adquiri conhecimento acadêmico em algumas linguagens e tecnologias, como por exemplo:
+
 <div>
   <ul>
     <li><img align="center" alt="Ayratan-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> </li>
@@ -14,7 +15,7 @@ Dentro da faculdade, adquiri conhecimento acadêmico em algumas linguagens e tec
    </ul>
 </div>
 
-Atualmente, estou me focando em aprender um pouco mais sobre desenvolvimento web, em especial, a parte de front-end.
+Atualmente, estou focado em aprender um pouco mais sobre desenvolvimento web, em especial, a parte de front-end.
 
 <div align="center">
   <a href="https://github.com/Ayratan">
@@ -27,6 +28,4 @@ Atualmente, estou me focando em aprender um pouco mais sobre desenvolvimento web
   <a href = "mailto:ayratangloria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayratan-hirakawa-a23391175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  
   ![Snake animation](https://github.com/Ayratan/Ayratan/blob/output/github-contribution-grid-snake.svg)
